@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+langchain_community
+langchain_classic
+langchain-google-genai
+python-dotenv
+chromadb

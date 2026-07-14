@@ -1,0 +1,87 @@
+Project: Raajakalpa Residence Financial Report
+
+[Category 1] Structure: Base Structural Steel & Cement (329,924 + 33,600 + 46,000 + 7,200). Subtotal: 416,724 INR[cite: 18].
+[Category 1] Structure: Main Masonry Wages: Sanju (311k) + Naganna Structure (28k). Subtotal: 339,000 INR[cite: 18].
+[Category 1] Structure: High-Density Clay Bricks (116,250 + 15,500 + 7,750). Subtotal: 139,500 INR[cite: 18].
+[Category 1] Structure: M-Sand Batches & 20mm Aggregates (105,000 + 27,500 + 30,000 + 23,700 + 13,000 + 20,000). Subtotal: 219,200 INR[cite: 18].
+Category Total for Structure: 1,114,424 INR[cite: 18].
+
+[Category 2] Plastering: Plastering Labour. Subtotal: 140,000 INR[cite: 18].
+[Category 2] Plastering: P-Sand base (30,000 + 24,000). Subtotal: 54,000 INR[cite: 18].
+[Category 2] Plastering: Wall Anti-Crack Reinforcing Mesh. Subtotal: 3,000 INR[cite: 18].
+[Category 2] Plastering: Finish Cement bags (15,050 + 21,500 + 17,200 + 16,250 + 13,500). Subtotal: 83,500 INR[cite: 18].
+Category Total for Plastering: 280,500 INR[cite: 18].
+
+[Category 3] Woodwork: Stated Project Wood Work Total. Subtotal: 378,000 INR[cite: 18].
+[Category 3] Woodwork: Site Carpenter Stage Payments. Subtotal: 77,000 INR[cite: 18].
+Category Total for Woodwork: 455,000 INR[cite: 18].
+
+[Category 4] Flooring: Vitrified Floor Tiles & Granite stock (120,000 + 2,800). Subtotal: 122,800 INR[cite: 18].
+[Category 4] Flooring: Material Freight, Offloading & Badige (4,500 + 1,200). Subtotal: 5,700 INR[cite: 18].
+[Category 4] Flooring: Tile Adhesives & Cement bags (11,700 + 3,750). Subtotal: 15,450 INR[cite: 18].
+[Category 4] Flooring: Screened M-Sand bedding base. Subtotal: 3,700 INR[cite: 18].
+[Category 4] Flooring: Tiling Master Wages (64k + 5.5k + 2.5k + 2.2k cutting + 3k last). Subtotal: 77,200 INR[cite: 18].
+[Category 4] Flooring: Kitchen Granite, wall tiles, Araldite bond & transit badige. Subtotal: 16,150 INR[cite: 18].
+[Category 4] Flooring: Post-tiling Material & Labor Acid Wash (12,000 + 7,000). Subtotal: 19,000 INR[cite: 18].
+Category Total for Flooring: 260,000 INR[cite: 18].
+
+[Category 5] Painting: Primers, Wall putty, Sump paint, Special Teak coating, Extra supply. Subtotal: 117,550 INR[cite: 18].
+[Category 5] Painting: 4 Cycles of Painting Labor (20k + 20k + 20k + 20k + 10k + 5k + 10k). Subtotal: 105,000 INR[cite: 18].
+[Category 5] Painting: Other paint-related overheads. Subtotal: 5,000 INR[cite: 18].
+Category Total for Painting: 227,550 INR[cite: 18].
+
+[Category 6] Plumbing: Base Plumbing items & Post-plastering upgrades (17,000 + 38,000). Subtotal: 55,000 INR[cite: 18].
+[Category 6] Plumbing: Plumbing assembly technician wages. Subtotal: 7,000 INR[cite: 18].
+[Category 6] Plumbing: Mid-tier fittings top-up run. Subtotal: 61,000 INR[cite: 18].
+[Category 6] Plumbing: Pusheets structural insulation layer. Subtotal: 4,500 INR[cite: 18].
+[Category 6] Plumbing: Solar Water Heater rooftop unit. Subtotal: 21,000 INR[cite: 18].
+[Category 6] Plumbing: Bangalore-to-site transport badige. Subtotal: 3,000 INR[cite: 18].
+[Category 6] Plumbing: Last-stage concluding pipe fittings. Subtotal: 6,000 INR[cite: 18].
+Category Total for Plumbing: 157,500 INR[cite: 18].
+
+[Category 7] Compound: Naganna Perimeter wall milestone payments. Subtotal: 100,000 INR[cite: 19].
+[Category 7] Compound: Structural boundary iron work. Subtotal: 3,000 INR[cite: 19].
+[Category 7] Compound: Size Kallu foundation stones. Subtotal: 10,000 INR[cite: 19].
+[Category 7] Compound: High-density Hollow Blocks line-supply. Subtotal: 15,000 INR[cite: 19].
+[Category 7] Compound: 40mm aggregate loose mix gravel. Subtotal: 4,300 INR[cite: 19].
+[Category 7] Compound: Dedicated boundary wall cement bags. Subtotal: 10,800 INR[cite: 19].
+[Category 7] Compound: Concluding masonry patch-work finish. Subtotal: 6,000 INR[cite: 19].
+Category Total for Compound: 149,100 INR[cite: 19].
+
+[Category 8] Electrical: Electrical items baseline raw inventory. Subtotal: 24,080 INR[cite: 19].
+[Category 8] Electrical: Heavy main copper wire spools. Subtotal: 31,000 INR[cite: 19].
+[Category 8] Electrical: Professional electrician technician wages. Subtotal: 8,000 INR[cite: 19].
+[Category 8] Electrical: Cat6 high-speed internet data & TV Coaxial lines. Subtotal: 3,500 INR[cite: 19].
+[Category 8] Electrical: Lights & Switches. Subtotal: 56,350 INR[cite: 19].
+Category Total for Electrical: 122,930 INR[cite: 19].
+
+[Category 9] Fabrication: Custom window safety grills, gates & manual welding labor. Subtotal: 43,000 INR[cite: 19].
+[Category 9] Fabrication: Commercial grade structural raw MS Steel. Subtotal: 72,500 INR[cite: 19].
+Category Total for Fabrication: 115,500 INR[cite: 19].
+
+[Category 10] Openings: Main door hardware fixtures, beeding wood & custom hand carvings. Subtotal: 57,700 INR[cite: 19].
+[Category 10] Openings: Final stage protective Mesh & Beeding work. Subtotal: 2,500 INR[cite: 19].
+[Category 10] Openings: Secondary miscellaneous door setting materials. Subtotal: 2,000 INR[cite: 19].
+[Category 10] Openings: Raw wood stock for individual window frame moldings. Subtotal: 4,500 INR[cite: 19].
+[Category 10] Openings: Thick safety Toughened Glass supply (8,000 + 3,200). Subtotal: 11,200 INR[cite: 19].
+[Category 10] Openings: Secondary window frame structural steel supports. Subtotal: 13,017 INR[cite: 19].
+Category Total for Openings: 90,917 INR[cite: 19].
+
+[Category 11] Kitchen App: Heavy-duty deep dual kitchen sink bowl. Subtotal: 7,150 INR[cite: 19].
+[Category 11] Kitchen App: Multi-burner drop-in cooking counter stove. Subtotal: 10,000 INR[cite: 19].
+[Category 11] Kitchen App: Auto-clean electrical exhaust chimney ventilation system. Subtotal: 14,000 INR[cite: 19].
+Category Total for Kitchen App: 31,150 INR[cite: 19].
+
+[Category 12] Operations: Cement Sanju extra balance allocation. Subtotal: 18,500 INR[cite: 19].
+[Category 12] Operations: Bodras layout scaffolding frame items. Subtotal: 20,000 INR[cite: 19].
+[Category 12] Operations: Extra size stones reserve stock. Subtotal: 17,500 INR[cite: 19].
+[Category 12] Operations: JCB heavy machinery earth excavation for pillar spots. Subtotal: 6,000 INR[cite: 19].
+[Category 12] Operations: Consulting Structural Engineer design/clearance fees. Subtotal: 14,000 INR[cite: 19].
+[Category 12] Operations: Heavy rain PVC gutter drainage lines. Subtotal: 6,000 INR[cite: 19].
+[Category 12] Operations: Henchu style traditional clay roof tiling. Subtotal: 29,000 INR[cite: 19].
+[Category 12] Operations: Wet-area waterproofing chemical coatings. Subtotal: 3,000 INR[cite: 19].
+[Category 12] Operations: Final electrical & plumbing service transition buffer. Subtotal: 15,000 INR[cite: 19].
+[Category 12] Operations: On-site processing consumables (Metal paste, epoxies, etc.). Subtotal: 5,000 INR[cite: 19].
+Category Total for Operations: 134,000 INR[cite: 19].
+
+GRAND TOTAL FOR RAAJAKALPA RESIDENCE: 3,170,871 INR[cite: 19].
